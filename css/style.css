@@ -1,0 +1,213 @@
+
+
+
+.containerp{
+
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.ligne {
+  border: 4px solid black;
+  border-right: none;
+  width:600px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.ligne div:nth-child(1){
+
+  width: 15px;
+  border-right: 8px solid black;
+}
+
+
+.ligne div:nth-child(2){
+
+  width: 100px;
+  border-right: 8px solid black;
+}
+
+
+.ligne div:nth-child(3){
+
+  width: 210px;
+  border-right: 8px solid black;
+}
+
+.ligne div:nth-child(4){
+
+  width: 255px;
+  border-right: 8px solid black;
+}
+
+/* ligne 2*/
+
+.ligne2 {
+  border: 4px solid black;
+  border-right: none;
+  width:600px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.ligne2 div:nth-child(1){
+
+  width: 15px;
+  border-right: 8px solid black;
+}
+
+
+.ligne2 div:nth-child(2){
+
+  width: 100px;
+  border-right: 8px solid black;
+}
+
+
+.ligne2 div:nth-child(3){
+
+  width: 210px;
+  border-right: 8px solid black;
+}
+
+.ligne2 div:nth-child(4){
+
+  width: 95px;
+  border-right: 8px solid black;
+}
+
+.ligne2 div:nth-child(5){
+  
+  width: 155px;
+  border-right: 8px solid black;
+}
+
+/*ligne 3*/
+
+.ligne3 {
+  border: 4px solid black;
+  border-right: none;
+  width:600px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;}
+
+.whitec{
+
+  width: 15px;
+  height: 196px;
+  border-right: 8px solid black;
+
+}
+
+.container2{
+
+  width: 577px;
+  height: 196px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.ligne33{
+  border: 4px solid black;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  width:577px;
+  height: 98px;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.ligne33 div:nth-child(1){
+
+
+  width: 97px;
+  border-right: 8px solid black;
+
+
+}
+
+
+.ligne33 div:nth-child(2){
+
+
+  width: 305px;
+  border-right: 8px solid black;
+
+
+}
+
+.ligne33 div:nth-child(3){
+
+
+  width: 151px;
+  border-right: 8px solid black;
+
+}
+
+
+
+.ligne332{
+  border: 4px solid black;
+  border-left: none;
+  border-right: none;
+  width:577px;
+  height: 98px;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.ligne332 div:nth-child(1){
+
+
+  width: 97px;
+  border-right: 8px solid black;
+
+
+}
+
+
+.ligne332 div:nth-child(2){
+
+
+  width: 305px;
+  border-right: 8px solid black;
+
+
+}
+
+.ligne332 div:nth-child(3){
+
+
+  width: 151px;
+
+
+}
+
+.blanc{
+  background-color: white;
+}
+
+.rouge{
+  background-color: red;
+}
+
+.jaune{
+
+  background-color: yellow;
+}
+
+.bleu{
+  background-color: blue;
+}
